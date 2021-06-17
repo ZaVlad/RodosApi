@@ -1,0 +1,9 @@
+﻿Drop Index IX_Doors_CategoryId On dbo.Doors
+Drop Index IX_Doors_CoatingId On dbo.Doors
+Drop Index IX_Doors_CollectionId On dbo.Doors
+Drop Index IX_Doors_ColorId On dbo.Doors
+Drop Index IX_Doors_DoorHandleId On dbo.Doors
+Drop Index IX_Doors_DoorModelId On dbo.Doors
+Drop Index IX_Doors_HingesId On dbo.Doors
+Drop Index IX_Doors_MakerId On dbo.Doors
+Drop Index IX_Doors_TypeOfDoorId On dbo.Doors
